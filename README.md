@@ -149,7 +149,7 @@ python patch-vbmeta.py original_vbmeta_a.bin
 python mtk.py e metadata,userdata,md_udc
 ```
 
-Always make sure there are no errors after the commands
+Always make sure there are no errors after the commands  
 2. **OEM Unlock command**:
 
 ```bash
